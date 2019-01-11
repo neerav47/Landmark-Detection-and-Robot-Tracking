@@ -10,9 +10,9 @@ SLAM gives us a way to track the location of a robot in the world in real-time a
 
 ## Files
 
-- `Notebook 1` : Robot moving and sensing
-- `Notebook 2` : Omega and Xi, Constraints
-- `Notebook 3` : Landmark detection and tracking
+- `Robot Moving and Sensing.ipynb` : Robot moving and sensing
+- `Omega and Xi, Constraints.ipynb` : Omega and Xi, Constraints
+- `Landmark Detection and Tracking.ipynb` : Landmark detection and tracking
 - `robot_class.py` : Robot object with its world
 - `helpers.py` : helper functions
 
